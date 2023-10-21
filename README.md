@@ -1,8 +1,8 @@
 ### Olá, sou Ricardo Rodrigues 
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ricardorodrigues89&show_icons=true&theme=dark&include_all_commits=true&count"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorodrigues89&layout=compact&langs_count=16&theme=dark"/>
+<img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89&show_icons=true&theme=dark&include_all_commits=true&count"/>
+<img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodrigues89&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,8 +19,4 @@
 
 </div>
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RicardoRodrigues89/count.svg" /></p>
 
-
-
-![snake gif](https://github.com/RicardoRodrigues89/RicardoRodrigues89/blob/output/github-contribution-grid-snake.svg)
