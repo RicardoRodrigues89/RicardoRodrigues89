@@ -19,6 +19,8 @@
 
 </div>
 
-![Snake animation](https://github.com/ricardorodrigues89/ricardorodrigues89/blob/output/github-contribuition-grid-snake.svg)
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RicardoRodrigues89/count.svg" /></p>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ricardorodrigues89&repo=ricardorodrigues89&theme=react)](https://github.com/ricardorodrigues89/ricardorodrigues89)
+
+
+![snake gif](https://github.com/RicardoRodrigues89/RicardoRodrigues89/blob/output/github-contribution-grid-snake.svg)
