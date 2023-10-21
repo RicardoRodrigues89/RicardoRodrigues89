@@ -15,4 +15,6 @@
 
 <div>
 <a href="https://www.instagram.com/saga_leonne" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com/in/ricardo-rodrigues-7a6199284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 </div>
