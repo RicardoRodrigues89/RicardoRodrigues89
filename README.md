@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, sou Ricardo Rodrigues 
 
-<!--
-**RicardoRodrigues89/RicardoRodrigues89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ricardorodrigues89&show_icons=true&theme=dark&include_all_commits=true&count"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorodrigues89&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+<img aign="center" alt=Ricardo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img aign="center" alt=Ricardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img aign="center" alt=Ricardo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
