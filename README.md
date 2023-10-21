@@ -18,3 +18,7 @@
 <a href="https://www.linkedin.com/in/ricardo-rodrigues-7a6199284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </div>
+
+![Snake animation](https://github.com/ricardorodrigues89/ricardorodrigues89/blob/output/github-contribuition-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ricardorodrigues89&repo=ricardorodrigues89&theme=react)](https://github.com/ricardorodrigues89/ricardorodrigues89)
