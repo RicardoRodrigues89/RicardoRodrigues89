@@ -12,4 +12,14 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Display message
-      run: echo "Olá, mundo! A Action está funcionando."
+      run: |
+        echo "::group::Snake Game Animation"
+        echo "  ▕▔▔▔▔▔▔▔▔▔▔▔▔▔▏"
+        echo "  ▕╱╱╱╱╱╱╱╱╱╱╱╱▏"
+        echo "  ▕╱╱╱╱╱╱╱╱╱╱╱╱▏"
+        echo "  ▕╱╱╱╱╱╱╱╱╱╱╱╱▏"
+        echo "  ▕╱╱╱╱╱╱╱╱╱╱╱╱▏"
+        echo "  ▕╱╱╱╱╱╱╱╱╱╱╱╱▏"
+        echo "  ▕╱╱╱╱╱╱╱╱╱╱╱╱▏"
+        echo "  ▕▁▁▁▁▁▁▁▁▁▁▁▁▁▏"
+        echo "::endgroup::"
