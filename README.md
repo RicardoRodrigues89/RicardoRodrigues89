@@ -20,3 +20,5 @@
 <a href="https://www.linkedin.com/in/ricardo-rodrigues-7a6199284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
+![Snake animation](https://github.com/RicardoRodrigues89/RicardoRodrigues89/blob/output/github-contribution-grid-snake.svg)
+
