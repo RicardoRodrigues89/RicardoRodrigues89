@@ -1,9 +1,9 @@
-<p align="center">
-<strong>### Olá, sou Ricardo Rodrigues.</strong>
-</p>
+<div align="center">
+<h1>Olá, sou Ricardo Rodrigues.</h1>
+</div>
 
 <p align="center">
-Entusiasta da tecnologia embarcando na jornada de Análise e Desenvolvimento de Sistemas. Estou ansioso para aplicar meu aprendizado em projetos práticos e colaborar com outros profissionais apaixonados por tecnologia. Sempre pronto a aprender e colaborar com esse campo em constante evolução.
+Um entusiasta da tecnologia embarcando na jornada de Análise e Desenvolvimento de Sistemas. Estou ansioso para aplicar meu aprendizado em projetos práticos e colaborar com outros profissionais apaixonados por tecnologia. Sempre pronto a aprender e colaborar com esse campo em constante evolução.
 </p>
 
 <p align="center">
