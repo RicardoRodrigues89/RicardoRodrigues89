@@ -20,9 +20,3 @@ Entusiasta da tecnologia embarcando na jornada de Análise e Desenvolvimento de 
 <a href="https://www.linkedin.com/in/ricardo-rodrigues-7a6199284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
   
-##
-
-<div>
-  <img src="/imagem/octocat-1701260025457"/>
-</div>
-
