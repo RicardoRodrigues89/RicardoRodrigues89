@@ -22,5 +22,4 @@
   
 ##
 
-<img aign="center" alt=Ricardo-OC" height="30" width="40" src="octocat-1701260025457 />
-</div>
+
