@@ -1,4 +1,5 @@
-### Olá, sou Ricardo Rodrigues 
+### Olá, sou Ricardo Rodrigues.
+34 anos. Entusiasta da tecnologia embarcando na jornada de Análise e Desenvolvimento de Sistemas. Estou ansioso para aplicar meu aprendizado em projetos práticos e colaborar com outros profissionais apaixonados por tecnologia. Sempre pronto a aprender e colaborar com esse campo em constante evolução.
 
 <div>
 <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89&show_icons=true&theme=dark&include_all_commits=true&count"/>
