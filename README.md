@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoRodrigues89&color=orange" alt="Profile views" /> </p>
 
 <div style="text-align:center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!💥💥💥💥💥" alt="Typing SVG">
 </div>
 
 <div align="center">
