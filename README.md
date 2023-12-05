@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=DDE1F4&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!" alt="Typing SVG">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoRodrigues89&color=orange" alt="Profile views" /> </p>
 <div align="center">
 <h1>Olá, sou Ricardo Rodrigues.</h1>
@@ -15,6 +19,7 @@ Um entusiasta da tecnologia embarcando na jornada de Análise e Desenvolvimento 
 <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89&show_icons=true&theme=dark&include_all_commits=true&count"/>
 <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodrigues89&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
 
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt=Ricardo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
