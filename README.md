@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoRodrigues89&color=orange" alt="Profile views" /> </p>
 <div align="center">
 <h1>Olá, sou Ricardo Rodrigues.</h1>
 </div>
