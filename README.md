@@ -1,11 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoRodrigues89&color=orange" alt="Profile views" /> </p>
 
-<div style="text-align:center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!💥💥💥💥💥" alt="Typing SVG">
-</div>
-
 <div align="center">
-<h1>Olá, sou Ricardo Rodrigues.</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Olá,+sou+Ricardo+Rodrigues.;Desenvolvedor+full-stack.;E+amante+das+artes+😄." alt="apresentação"></a>
 </div>
 
 <p align="center">
@@ -16,6 +12,7 @@ Um entusiasta da tecnologia embarcando na jornada de Análise e Desenvolvimento 
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="animated" />
 </p>
 
+  
 <div align="center">
 <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89&show_icons=true&theme=dark&include_all_commits=true&count"/>
 <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodrigues89&layout=compact&langs_count=16&theme=dark"/>
