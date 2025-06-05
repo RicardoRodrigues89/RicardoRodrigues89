@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoRodrigues89&color=orange" alt="Profile views" /> </p>
-
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Olá,+sou+Ricardo+Rodrigues.;Desenvolvedor+full-stack.;E+amante+das+artes+😄." alt="apresentação"></a>
 </div>
