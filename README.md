@@ -1,7 +1,3 @@
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Olá,+sou+Ricardo+Rodrigues.;Desenvolvedor+full-stack.;E+amante+das+artes+😄." alt="apresentação"></a>
-</div>
-
 <p align="center">
 Um entusiasta da tecnologia embarcando na jornada de Análise e Desenvolvimento de Sistemas. Estou ansioso para aplicar meu aprendizado em projetos práticos e colaborar com outros profissionais apaixonados por tecnologia. Sempre pronto a aprender e colaborar com esse campo em constante evolução.
 </p>
