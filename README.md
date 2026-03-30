@@ -1,5 +1,5 @@
 <p align="center">
-Java developer in training | Building logic, projects and consistency
+Java developer in training | Interested in JavaScript, Kotlin and cybersecurity
 </p>
 
 <p align="center">
@@ -7,19 +7,13 @@ Java developer in training | Building logic, projects and consistency
 </p>
 
   
-<div align="center">
-<img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89&show_icons=true&theme=dark&include_all_commits=true&count"/>
-<img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodrigues89&layout=compact&langs_count=16&theme=dark"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89&show_icons=true&theme=tokyonight)
 
 
-<div style="display: inline_block" align="center"><br>
-<img align="center" alt=Ricardo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt=Ricardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt=Ricardo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt=Ricardo-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt=Ricardo-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ##
 
