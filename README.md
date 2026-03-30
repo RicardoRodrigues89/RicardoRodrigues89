@@ -23,10 +23,6 @@ Java developer in training | Interested in JavaScript, Kotlin and cybersecurity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodrigues89\&layout=compact\&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=RicardoRodrigues89\&theme=tokyonight)
 
 </div>
