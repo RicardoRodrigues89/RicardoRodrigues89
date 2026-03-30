@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Training;Building+Projects;Cybersecurity+Enthusiast" />
+</p>
+
+<p align="center">
 Java developer in training | Interested in JavaScript, Kotlin and cybersecurity
 </p>
 
@@ -6,7 +10,6 @@ Java developer in training | Interested in JavaScript, Kotlin and cybersecurity
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="animated" />
 </p>
 
-  
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -16,13 +19,26 @@ Java developer in training | Interested in JavaScript, Kotlin and cybersecurity
 
 </div>
 
+##
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodrigues89\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RicardoRodrigues89\&theme=tokyonight)
+
+</div>
 
 ##
 
 <div align="center">
-<a href="https://www.instagram.com/saga_leonne" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="https://www.linkedin.com/in/ricardo-rodrigues-7a6199284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/saga_leonne" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ricardo-rodrigues-7a6199284" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </div>
-  
-
-
