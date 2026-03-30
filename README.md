@@ -9,12 +9,15 @@ Java developer in training | Interested in JavaScript, Kotlin and cybersecurity
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoRodrigues89&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRodrigues89&layout=compact&theme=tokyonight)
 
+
+<div align="center">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
-
+</div>
 ##
 
 
